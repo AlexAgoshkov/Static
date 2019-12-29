@@ -1,0 +1,5 @@
+D:\Sourse\GitHub\Static\Static\Task2\bin\Debug\Task2.exe.config
+D:\Sourse\GitHub\Static\Static\Task2\bin\Debug\Task2.exe
+D:\Sourse\GitHub\Static\Static\Task2\bin\Debug\Task2.pdb
+D:\Sourse\GitHub\Static\Static\Task2\obj\Debug\Task2.exe
+D:\Sourse\GitHub\Static\Static\Task2\obj\Debug\Task2.pdb
